@@ -1,7 +1,6 @@
-## Hello there,Me chamo Gabriel Borges,Atualmente sou estudante na <a href="https://www.linkedin.com/school/betrybe/mycompany/">
-  <img alt="trybe linkedin" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>,cursando o módulo de back-end e formado em Front-end,encontrei esse mundo
-por acaso mas pretendo nunca sair dele 😄
+### Hello there,Me chamo Gabriel Borges,Atualmente sou estudante na <a href="https://www.linkedin.com/school/betrybe/mycompany/">
+  <img alt="trybe linkedin" width="30px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a> ### cursando o módulo de back-end e formado em Front-end,encontrei esse mundopor acaso mas pretendo nunca sair dele 😄
 
 <div align="left">
   <a href="https://github.com/GBLBORGES">
