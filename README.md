@@ -1,4 +1,4 @@
-#### Hello there,Me chamo Gabriel Borges,Atualmente sou estudante na @Trybe cursando o módulo de back-end e formado em Front-end,encontrei esse mundo por acaso mas pretendo nunca sair dele 😄, curto quase todo tipo de musica,mas desde novinho fui muito fan de rock e não dispenso um bom :coffee: 
+#### Hello there,Me chamo Gabriel Borges,Atualmente estou cursando engenharia de computação sou formado pela Trybe como desenvolvedor web fullstack buscando uma oportunidade no mercado,encontrei esse mundo por acaso mas pretendo nunca sair dele, curto quase todo tipo de musica principalmente rock anos 2000 e adoro codar tomando um bom café. 
 
 ## Contatos
 <a href="https://www.linkedin.com/in/gabrielblborges/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
